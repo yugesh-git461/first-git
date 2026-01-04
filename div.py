@@ -1,0 +1,1 @@
+print("division ",56/2)

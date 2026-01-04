@@ -1,1 +1,1 @@
-print("sqr",2**2)
+print("addition ", 2+2)print("addition ", 2+2)
